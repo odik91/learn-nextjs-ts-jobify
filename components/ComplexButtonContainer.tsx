@@ -96,7 +96,7 @@ const ComplexButtonContainer = ({
 
     if (currentPage < totalPages - 2) {
       pageButtons.push(
-        <Button size="icon" variant="outline" key="dots-1">
+        <Button size="icon" variant="outline" key="dots-2">
           ...
         </Button>
       );
